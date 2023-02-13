@@ -10,6 +10,10 @@
 
 <!-- Find some of my interesting projects pinned below -->
 
+<!-- github stats, most used languages, github trophies, latest blog posts https://github.com/PluckyPrecious/PluckyPrecious -->
+
+<!--  resource: https://github.com/abhisheknaiidu/awesome-github-profile-readme#a-little-bit-of-everything--->
+
 <!---
 blossom-babs/blossom-babs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
