@@ -1,11 +1,25 @@
-👋 Welcome to my corner on this hub. I'm Blossom, a software Developer with extensive experience creating intuitive and engaging user interfaces across differents industries including B2B, B2C, SMEs, and large enterprises. 
+<p align="center">
 
-🏓 When I'm not pushing some new code to github, you can find me managing the community at girdstore and selling period care packages. 
- or 
+<a href="https://www.linkedin.com/in/blossom-babalola/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+ <a href="https://www.youtube.com/channel/UCWqoKQfyZTTLUd4t8yBT57g"><img src="https://img.shields.io/badge/-yotube-red?style=for-the-badge&logo=youtube&logoColor=white"/> </a>
+ 
+</p><br>
 
-🛬 ## <h3> Some technologies I use </h3>
+👋 **Welcome to my corner on this hub**. I'm Blossom, a software Developer with extensive experience creating intuitive and engaging user interfaces across differents industries including B2B, B2C, SMEs, and large enterprises. 
 
-<div style=display:"flex"; flex-wrap:"wrap">
+🏓 When I'm not pushing some new code to github, you can find me managing the community at girdstore and menstrual care pack.  
+
+🔛 Currently
+
+👉 learning about maximizing the value of product by combining business requirements, technology and software design knowledge
+🏨 building [Keeper app](), [remote global]() and [Care for the aged]()
+👩‍💻 simplifying technical concepts on [youtube](https://www.youtube.com/channel/UCWqoKQfyZTTLUd4t8yBT57g)
+🎙️ talking about my career journey on my [podcast](https://anchor.fm/trant)
+📚 sharing technical tidbits I'd recently learned on my [blog](https://blossom.hashnode.dev/)
+
+<h3> 🛬 Some technologies I use </h3>
+
+
 ![image](https://user-images.githubusercontent.com/58997189/219346892-2193306a-7b13-47c3-a903-29be98a37d70.png)
 ![image](https://user-images.githubusercontent.com/58997189/219346958-2fecf051-001b-4236-a8a9-af36d40f643d.png)
 ![image](https://user-images.githubusercontent.com/58997189/219346990-f932cfcd-d50d-4990-a7d8-8981ec83377d.png)
@@ -17,9 +31,9 @@
 ![image](https://user-images.githubusercontent.com/58997189/219347403-bd4e9b2f-da53-4cd7-80d2-41c3cc4890c7.png)
 ![image](https://user-images.githubusercontent.com/58997189/219347441-353bf261-15ae-48b5-a9db-d62ad90ea3e2.png)
 ![image](https://user-images.githubusercontent.com/58997189/219347731-e18e46b3-1775-4fad-9901-d1161243b744.png)
-</div>
 
-🐳 What else? Here are some cool tools I use
+
+<h3> 🐳 What else? Here are some cool tools I use </h3>
 ![image](https://user-images.githubusercontent.com/58997189/219347794-73c25e1f-64c9-4433-87fd-722d44e4732c.png)
 ![image](https://user-images.githubusercontent.com/58997189/219347838-0f2e6bf8-d2bb-4d2f-9654-0681f54f7b53.png)
 ![image](https://user-images.githubusercontent.com/58997189/219347894-a149c42a-0bc2-4497-920d-6716d304ced3.png)
@@ -28,13 +42,8 @@
 ![image](https://user-images.githubusercontent.com/58997189/219348016-52727c6c-cc7e-40af-99b9-d3e717a69c08.png)
 ![image](https://user-images.githubusercontent.com/58997189/219348063-87a01e7e-0b11-4139-8a57-95de695482f1.png)
 
-🔛 Currently
 
-👉 learning about merging the business and technical side of things to fulfill a business requirement
-🏨 building [Keeper app](), [remote global]() and [Care for the aged]()
-👩‍💻 simplifying technical concepts on [youtube](https://www.youtube.com/channel/UCWqoKQfyZTTLUd4t8yBT57g)
-🎙️ talking about my career journey on my [podcast](https://anchor.fm/trant)
-📚 sharing technical tidbits I'd recently learned on my [blog](https://blossom.hashnode.dev/)
+
 
 👐 I'm always open to connecting. You can find me on [linkedin]()
 
