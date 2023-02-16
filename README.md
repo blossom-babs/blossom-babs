@@ -1,4 +1,6 @@
-<p style="text-align:center">
+<div align="center">
+ 
+<p align="center">
 
 <a href="https://www.linkedin.com/in/blossom-babalola/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
  <a href="https://www.youtube.com/channel/UCWqoKQfyZTTLUd4t8yBT57g"><img src="https://img.shields.io/badge/-yotube-red?style=for-the-badge&logo=youtube&logoColor=white"/> </a>
@@ -46,6 +48,7 @@ I'm Blossom, a software Developer with extensive experience creating intuitive a
 <br>
 
 <h3> 🐳 What else? Here are some cool tools I use </h3>
+
 * * *
 
 ![Netlify](https://img.shields.io/badge/-netlify-red?style=for-the-badge&logo=netlify&logoColor=white)
@@ -60,7 +63,8 @@ I'm Blossom, a software Developer with extensive experience creating intuitive a
 
 <br>
 
-👐 I'm always open to connecting. Say hello on [linkedin](https://www.linkedin.com/in/blossom-babalola/)
+👐 Thank you for stopping by. Say [hello](https://www.linkedin.com/in/blossom-babalola/)
 
 _P.s: Feel free to open an issue if you find any with my projects. Ciao 🍵_
 
+</div>
