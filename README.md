@@ -1,4 +1,4 @@
-<div align="center" width="50%">
+<div align="center" width="50px">
  
 <p align="center">
 
