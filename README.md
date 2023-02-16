@@ -3,7 +3,7 @@
 🏓 When I'm not pushing some new code to github, you can find me managing the community at girdstore and selling period care packages. 
  or 
 
-🛬 ### Some technologies I use
+🛬 ###Some technologies I use
 
 <div style=display:"flex"; flex-wrap:"wrap">
 ![image](https://user-images.githubusercontent.com/58997189/219346892-2193306a-7b13-47c3-a903-29be98a37d70.png)
