@@ -24,10 +24,12 @@ I'm Blossom, a software Developer with extensive experience creating intuitive a
 🏓 Fun fact, when I'm not coding, you can find me managing the community at girdstore and [menstrual care pack](https://www.instagram.com/menstrual_care_pack/).  
 </div>
 
+<br>
+
 <h3> 🛬 Some technologies I use </h3>
 
-
-![image](https://user-images.githubusercontent.com/58997189/219346892-2193306a-7b13-47c3-a903-29be98a37d70.png)
+<img width="40px" src="https://user-images.githubusercontent.com/58997189/219346892-2193306a-7b13-47c3-a903-29be98a37d70.png">
+![image]()
 ![image](https://user-images.githubusercontent.com/58997189/219346958-2fecf051-001b-4236-a8a9-af36d40f643d.png)
 ![image](https://user-images.githubusercontent.com/58997189/219346990-f932cfcd-d50d-4990-a7d8-8981ec83377d.png)
 ![image](https://user-images.githubusercontent.com/58997189/219347068-88497e33-b980-4fc4-98fa-31f496447a20.png)
