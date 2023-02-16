@@ -28,7 +28,7 @@ I'm Blossom, a software Developer with extensive experience creating intuitive a
 
 <h3> 🛬 Some technologies I use </h3>
 
-<div display="flex">
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![MaterialUi](https://img.shields.io/badge/Material-UI-3776AB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,7 +42,7 @@ I'm Blossom, a software Developer with extensive experience creating intuitive a
 ![Cypress](https://img.shields.io/badge/-cypress-purple?style=for-the-badge&logo=cypress&logoColor=white)
 ![Nextjs](https://img.shields.io/badge/-nextjs-black?style=for-the-badge&logo=nextjs&logoColor=white)
 
-</div>
+
 
 <h3> 🐳 What else? Here are some cool tools I use </h3>
 ![image](https://user-images.githubusercontent.com/58997189/219347794-73c25e1f-64c9-4433-87fd-722d44e4732c.png)
