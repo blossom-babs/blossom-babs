@@ -28,6 +28,7 @@ I'm Blossom, a software Developer with extensive experience creating intuitive a
 
 <h3> 🛬 Some technologies I use </h3>
 
+<div display="flex">
 <img width="40px" src="https://user-images.githubusercontent.com/58997189/219346892-2193306a-7b13-47c3-a903-29be98a37d70.png">
 <img width="40px" src="https://user-images.githubusercontent.com/58997189/219346958-2fecf051-001b-4236-a8a9-af36d40f643d.png">
 <img width="40px" src="https://user-images.githubusercontent.com/58997189/219346990-f932cfcd-d50d-4990-a7d8-8981ec83377d.png">
@@ -39,6 +40,7 @@ I'm Blossom, a software Developer with extensive experience creating intuitive a
 <img width="40px" src="https://user-images.githubusercontent.com/58997189/219347403-bd4e9b2f-da53-4cd7-80d2-41c3cc4890c7.png"/>
 <img width="40px" src="https://user-images.githubusercontent.com/58997189/219347441-353bf261-15ae-48b5-a9db-d62ad90ea3e2.png"/>
 <img width="40px" src="https://user-images.githubusercontent.com/58997189/219347731-e18e46b3-1775-4fad-9901-d1161243b744.png"/>
+</div>
 
 <h3> 🐳 What else? Here are some cool tools I use </h3>
 ![image](https://user-images.githubusercontent.com/58997189/219347794-73c25e1f-64c9-4433-87fd-722d44e4732c.png)
