@@ -2,20 +2,22 @@
 
 <a href="https://www.linkedin.com/in/blossom-babalola/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
  <a href="https://www.youtube.com/channel/UCWqoKQfyZTTLUd4t8yBT57g"><img src="https://img.shields.io/badge/-yotube-red?style=for-the-badge&logo=youtube&logoColor=white"/> </a>
- 
+  <a href="https://anchor.fm/trant"><img src="https://img.shields.io/badge/-podcast-blue?style=for-the-badge&logo=anchor&logoColor=white"/> </a>
+  <a href="https://blossom.hashnode.dev/"><img src="https://img.shields.io/badge/-blog-lightgrey?style=for-the-badge&logo=hashnode&logoColor=white"/> </a>
+   <a href="https://twitter.com/BabalolaBlossom"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a>
 </p><br>
 
 👋 **Welcome to my corner on this hub**. I'm Blossom, a software Developer with extensive experience creating intuitive and engaging user interfaces across differents industries including B2B, B2C, SMEs, and large enterprises. 
 
 🏓 When I'm not pushing some new code to github, you can find me managing the community at girdstore and menstrual care pack.  
 
-🔛 Currently
+<h3> 🔛 I am currently... </h3>
 
-👉 learning about maximizing the value of product by combining business requirements, technology and software design knowledge
-🏨 building [Keeper app](), [remote global]() and [Care for the aged]()
-👩‍💻 simplifying technical concepts on [youtube](https://www.youtube.com/channel/UCWqoKQfyZTTLUd4t8yBT57g)
-🎙️ talking about my career journey on my [podcast](https://anchor.fm/trant)
-📚 sharing technical tidbits I'd recently learned on my [blog](https://blossom.hashnode.dev/)
+- 👉 learning about maximizing the value of product by combining business requirements, technology and software design knowledge
+- 🏨 building [Keeper app](), [remote global]() and [Care for the aged]()
+- 👩‍💻 simplifying technical concepts on [youtube](https://www.youtube.com/channel/UCWqoKQfyZTTLUd4t8yBT57g)
+- 🎙️ talking about my career journey on my [podcast](https://anchor.fm/trant)
+- 📚 sharing technical tidbits I'd recently learned on my [blog](https://blossom.hashnode.dev/)
 
 <h3> 🛬 Some technologies I use </h3>
 
