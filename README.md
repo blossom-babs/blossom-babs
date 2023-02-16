@@ -1,4 +1,4 @@
-<div align="center" width="50px">
+<div align="center">
  
 <p align="center">
 
@@ -16,9 +16,9 @@
 I'm Blossom, a software Developer with extensive experience creating intuitive and engaging user 
  <br> interfaces across differents industries including B2B, B2C, SMEs, and large enterprises. 
 
-<p style="font-style:bold"> 🔛 I am currently... </p>
+<h3> 🔛 I am currently... </h3>
 
- 👉 learning about maximizing the value of product by combining business requirements, <br> technology and software design knowledge <br>
+ 📖 learning about maximizing the value of product by combining business requirements, <br> technology and software design knowledge <br>
  🏨 building [Keeper app](), [remote global]() and [Care for the aged]() <br>
  👩‍💻 simplifying technical concepts on [youtube](https://www.youtube.com/channel/UCWqoKQfyZTTLUd4t8yBT57g) <br>
  🎙️ talking about my career journey on my [podcast](https://anchor.fm/trant) <br>
@@ -65,6 +65,8 @@ I'm Blossom, a software Developer with extensive experience creating intuitive a
 <br>
 
 👐 Thank you for stopping by. Say [hello](https://www.linkedin.com/in/blossom-babalola/)
+ 
+ <br>
 
 _P.s: Feel free to open an issue if you find any with my projects. Ciao 🍵_
 
