@@ -29,17 +29,19 @@ I'm Blossom, a software Developer with extensive experience creating intuitive a
 <h3> 🛬 Some technologies I use </h3>
 
 <div display="flex">
-<img width="40px" src="https://user-images.githubusercontent.com/58997189/219346892-2193306a-7b13-47c3-a903-29be98a37d70.png">
-<img width="40px" src="https://user-images.githubusercontent.com/58997189/219346958-2fecf051-001b-4236-a8a9-af36d40f643d.png">
-<img width="40px" src="https://user-images.githubusercontent.com/58997189/219346990-f932cfcd-d50d-4990-a7d8-8981ec83377d.png">
-<img width="40px" src="https://user-images.githubusercontent.com/58997189/219347068-88497e33-b980-4fc4-98fa-31f496447a20.png"/>
-<img width="40px" src="https://user-images.githubusercontent.com/58997189/219347149-433e30b1-aa53-4afc-9c56-71a2bbb9c595.png">
-<img width="40px" src="https://user-images.githubusercontent.com/58997189/219347211-c82128c4-cca5-4d43-9e77-f22777660df2.png">
-<img width="40px" src="https://user-images.githubusercontent.com/58997189/219347252-95ce204e-64b5-462b-b114-df0b997f294a.png"/>
-<img width="40px"src="https://user-images.githubusercontent.com/58997189/219347329-2eee33c9-9cc9-49ad-9888-d9e546bf6592.png"/>
-<img width="40px" src="https://user-images.githubusercontent.com/58997189/219347403-bd4e9b2f-da53-4cd7-80d2-41c3cc4890c7.png"/>
-<img width="40px" src="https://user-images.githubusercontent.com/58997189/219347441-353bf261-15ae-48b5-a9db-d62ad90ea3e2.png"/>
-<img width="40px" src="https://user-images.githubusercontent.com/58997189/219347731-e18e46b3-1775-4fad-9901-d1161243b744.png"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![MaterialUi](https://img.shields.io/badge/Material-UI-3776AB?style=for-the-badge&logo=material-ui&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cypress](https://img.shields.io/badge/-cypress-purple?style=for-the-badge&logo=cypress&logoColor=white)
+![Nextjs](https://img.shields.io/badge/-nextjs-black?style=for-the-badge&logo=nextjs&logoColor=white)
+
 </div>
 
 <h3> 🐳 What else? Here are some cool tools I use </h3>
