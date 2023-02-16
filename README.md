@@ -29,18 +29,16 @@ I'm Blossom, a software Developer with extensive experience creating intuitive a
 <h3> 🛬 Some technologies I use </h3>
 
 <img width="40px" src="https://user-images.githubusercontent.com/58997189/219346892-2193306a-7b13-47c3-a903-29be98a37d70.png">
-![image]()
-![image](https://user-images.githubusercontent.com/58997189/219346958-2fecf051-001b-4236-a8a9-af36d40f643d.png)
-![image](https://user-images.githubusercontent.com/58997189/219346990-f932cfcd-d50d-4990-a7d8-8981ec83377d.png)
-![image](https://user-images.githubusercontent.com/58997189/219347068-88497e33-b980-4fc4-98fa-31f496447a20.png)
-![image](https://user-images.githubusercontent.com/58997189/219347149-433e30b1-aa53-4afc-9c56-71a2bbb9c595.png)
-![image](https://user-images.githubusercontent.com/58997189/219347211-c82128c4-cca5-4d43-9e77-f22777660df2.png)
-![image](https://user-images.githubusercontent.com/58997189/219347252-95ce204e-64b5-462b-b114-df0b997f294a.png)
-![image](https://user-images.githubusercontent.com/58997189/219347329-2eee33c9-9cc9-49ad-9888-d9e546bf6592.png)
-![image](https://user-images.githubusercontent.com/58997189/219347403-bd4e9b2f-da53-4cd7-80d2-41c3cc4890c7.png)
-![image](https://user-images.githubusercontent.com/58997189/219347441-353bf261-15ae-48b5-a9db-d62ad90ea3e2.png)
-![image](https://user-images.githubusercontent.com/58997189/219347731-e18e46b3-1775-4fad-9901-d1161243b744.png)
-
+<img width="40px" src="https://user-images.githubusercontent.com/58997189/219346958-2fecf051-001b-4236-a8a9-af36d40f643d.png">
+<img width="40px" src="https://user-images.githubusercontent.com/58997189/219346990-f932cfcd-d50d-4990-a7d8-8981ec83377d.png">
+<img width="40px" src="https://user-images.githubusercontent.com/58997189/219347068-88497e33-b980-4fc4-98fa-31f496447a20.png"/>
+<img width="40px" src="https://user-images.githubusercontent.com/58997189/219347149-433e30b1-aa53-4afc-9c56-71a2bbb9c595.png">
+<img width="40px" src="https://user-images.githubusercontent.com/58997189/219347211-c82128c4-cca5-4d43-9e77-f22777660df2.png">
+<img width="40px" src="https://user-images.githubusercontent.com/58997189/219347252-95ce204e-64b5-462b-b114-df0b997f294a.png"/>
+<img width="40px"src="https://user-images.githubusercontent.com/58997189/219347329-2eee33c9-9cc9-49ad-9888-d9e546bf6592.png"/>
+<img width="40px" src="https://user-images.githubusercontent.com/58997189/219347403-bd4e9b2f-da53-4cd7-80d2-41c3cc4890c7.png"/>
+<img width="40px" src="https://user-images.githubusercontent.com/58997189/219347441-353bf261-15ae-48b5-a9db-d62ad90ea3e2.png"/>
+<img width="40px" src="https://user-images.githubusercontent.com/58997189/219347731-e18e46b3-1775-4fad-9901-d1161243b744.png"/>
 
 <h3> 🐳 What else? Here are some cool tools I use </h3>
 ![image](https://user-images.githubusercontent.com/58997189/219347794-73c25e1f-64c9-4433-87fd-722d44e4732c.png)
