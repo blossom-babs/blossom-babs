@@ -24,7 +24,7 @@ I'm Blossom, a software Developer with extensive experience creating intuitive a
  🎙️ talking about my career journey on my [podcast](https://anchor.fm/trant) <br>
  📚 sharing technical tidbits I'd recently learned on my [blog](https://blossom.hashnode.dev/) <br>
 
-🏓 Fun fact, when I'm not coding, you can find me managing the community at <br> girdstore and [menstrual care pack](https://www.instagram.com/menstrual_care_pack/).  
+🏓 Fun fact, when I'm not coding, you can find me managing the community at <br>  [menstrual care pack](https://www.instagram.com/menstrual_care_pack/).  
 </div>
 
 <br>
